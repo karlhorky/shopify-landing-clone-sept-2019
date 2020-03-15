@@ -30,6 +30,9 @@
     ]
   },
   "resolutions": {
+    "**/mkdirp/minimist": "0.2.1",
+    "**/optimist/minimist": "0.2.1",
+    "minimist": "1.2.2",
     "webpack/**/terser-webpack-plugin": "1.4.3"
   }
 }
