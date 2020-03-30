@@ -33,6 +33,6 @@
     "mkdirp": "0.5.4",
     "**/optimist/minimist": "0.2.1",
     "minimist": "^1.2.2",
-    "webpack/**/terser-webpack-plugin": "1.4.3"
+    "webpack/**/terser-webpack-plugin": "2.3.5"
   }
 }
